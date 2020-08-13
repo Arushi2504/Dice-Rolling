@@ -8,3 +8,5 @@ Concepts to keep in mind:
     Integer
     Print
     While Loops
+
+A good project for beginners, this project will help establish a solid foundation for basic concepts. And if you already have programming experience, chances are that the concepts used in this project aren’t completely foreign to you. Print, for example, is similar to Javascript’s console.log.
